@@ -1,5 +1,4 @@
 const mongoose = require('mongoose');
-// const postRoute = require('../routes/post.route.js');
 
 const productSchema = mongoose.Schema(
   {

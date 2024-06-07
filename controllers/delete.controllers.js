@@ -1,5 +1,3 @@
-const express = require('express');
-const deleteRouter = express.Router();
 const Product = require('../models/product.model.js');
 
 // Delete by product ID controller
